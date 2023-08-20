@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\bin\Debug\net7.0\04 For Statement.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\bin\Debug\net7.0\04 For Statement.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\bin\Debug\net7.0\04 For Statement.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\bin\Debug\net7.0\04 For Statement.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\bin\Debug\net7.0\04 For Statement.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\refint\04 For Statement.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\04 For Statement.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\04 For Statement\obj\Debug\net7.0\ref\04 For Statement.dll

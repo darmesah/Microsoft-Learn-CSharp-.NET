@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\bin\Debug\net7.0\01 Evaluate Boolean Expressions.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\bin\Debug\net7.0\01 Evaluate Boolean Expressions.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\bin\Debug\net7.0\01 Evaluate Boolean Expressions.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\bin\Debug\net7.0\01 Evaluate Boolean Expressions.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\bin\Debug\net7.0\01 Evaluate Boolean Expressions.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\refint\01 Evaluate Boolean Expressions.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\01 Evaluate Boolean Expressions.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\01 Evaluate Boolean Expressions\obj\Debug\net7.0\ref\01 Evaluate Boolean Expressions.dll

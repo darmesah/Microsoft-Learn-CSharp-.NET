@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\bin\Debug\net7.0\02 Using Code Blocks.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\bin\Debug\net7.0\02 Using Code Blocks.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\bin\Debug\net7.0\02 Using Code Blocks.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\bin\Debug\net7.0\02 Using Code Blocks.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\bin\Debug\net7.0\02 Using Code Blocks.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\refint\02 Using Code Blocks.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\02 Using Code Blocks.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started\02 Part 3\02 Using Code Blocks\obj\Debug\net7.0\ref\02 Using Code Blocks.dll

@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\bin\Debug\net7.0\03 Create Readable Code.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\bin\Debug\net7.0\03 Create Readable Code.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\bin\Debug\net7.0\03 Create Readable Code.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\bin\Debug\net7.0\03 Create Readable Code.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\bin\Debug\net7.0\03 Create Readable Code.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\refint\03 Create Readable Code.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\03 Create Readable Code.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\03 Create Readable Code\obj\Debug\net7.0\ref\03 Create Readable Code.dll

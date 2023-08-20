@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\bin\Debug\net7.0\02 Array and forEach.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\bin\Debug\net7.0\02 Array and forEach.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\bin\Debug\net7.0\02 Array and forEach.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\bin\Debug\net7.0\02 Array and forEach.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\bin\Debug\net7.0\02 Array and forEach.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\refint\02 Array and forEach.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\02 Array and forEach.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\02 Array and forEach\obj\Debug\net7.0\ref\02 Array and forEach.dll

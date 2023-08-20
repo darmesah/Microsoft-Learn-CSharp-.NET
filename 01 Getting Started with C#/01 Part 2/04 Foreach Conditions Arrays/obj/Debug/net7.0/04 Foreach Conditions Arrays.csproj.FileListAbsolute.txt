@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\bin\Debug\net7.0\04 Foreach Conditions Arrays.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\bin\Debug\net7.0\04 Foreach Conditions Arrays.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\bin\Debug\net7.0\04 Foreach Conditions Arrays.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\bin\Debug\net7.0\04 Foreach Conditions Arrays.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\bin\Debug\net7.0\04 Foreach Conditions Arrays.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\refint\04 Foreach Conditions Arrays.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\04 Foreach Conditions Arrays.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\04 Foreach Conditions Arrays\obj\Debug\net7.0\ref\04 Foreach Conditions Arrays.dll
