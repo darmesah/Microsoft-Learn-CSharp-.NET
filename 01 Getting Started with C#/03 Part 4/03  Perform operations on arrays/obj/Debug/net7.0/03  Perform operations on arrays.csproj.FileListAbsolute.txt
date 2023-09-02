@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\bin\Debug\net7.0\03  Perform operations on arrays.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\bin\Debug\net7.0\03  Perform operations on arrays.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\bin\Debug\net7.0\03  Perform operations on arrays.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\bin\Debug\net7.0\03  Perform operations on arrays.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\bin\Debug\net7.0\03  Perform operations on arrays.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\refint\03  Perform operations on arrays.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\03  Perform operations on arrays.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\03  Perform operations on arrays\obj\Debug\net7.0\ref\03  Perform operations on arrays.dll

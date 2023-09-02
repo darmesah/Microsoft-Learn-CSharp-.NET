@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\bin\Debug\net7.0\02 Convert data types.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\bin\Debug\net7.0\02 Convert data types.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\bin\Debug\net7.0\02 Convert data types.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\bin\Debug\net7.0\02 Convert data types.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\bin\Debug\net7.0\02 Convert data types.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\refint\02 Convert data types.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\02 Convert data types.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\02 Convert data types\obj\Debug\net7.0\ref\02 Convert data types.dll

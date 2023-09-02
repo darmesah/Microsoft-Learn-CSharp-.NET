@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\02 Part 3\\06 Conditional Branching and Looping\\06 Conditional Branching and Looping Structures.csproj": {}
+    "C:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\03 Part 4\\01  Choose the correct data type in your C# code\\01  Choose the correct data type in your C# code.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\02 Part 3\\06 Conditional Branching and Looping\\06 Conditional Branching and Looping Structures.csproj": {
+    "C:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\03 Part 4\\01  Choose the correct data type in your C# code\\01  Choose the correct data type in your C# code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\02 Part 3\\06 Conditional Branching and Looping\\06 Conditional Branching and Looping Structures.csproj",
-        "projectName": "06 Conditional Branching and Looping Structures",
-        "projectPath": "c:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\02 Part 3\\06 Conditional Branching and Looping\\06 Conditional Branching and Looping Structures.csproj",
+        "projectUniqueName": "C:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\03 Part 4\\01  Choose the correct data type in your C# code\\01  Choose the correct data type in your C# code.csproj",
+        "projectName": "01  Choose the correct data type in your C# code",
+        "projectPath": "C:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\03 Part 4\\01  Choose the correct data type in your C# code\\01  Choose the correct data type in your C# code.csproj",
         "packagesPath": "C:\\Users\\DAMISA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\02 Part 3\\06 Conditional Branching and Looping\\obj\\",
+        "outputPath": "C:\\Users\\DAMISA\\Documents\\Web Development\\Learning\\C#\\Microsoft Learn\\01 Getting Started with C#\\03 Part 4\\01  Choose the correct data type in your C# code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DAMISA\\AppData\\Roaming\\NuGet\\NuGet.Config"

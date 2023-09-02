@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "01  Choose the correct data type in your C# code/1.0.0": {
+        "runtime": {
+          "01  Choose the correct data type in your C# code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01  Choose the correct data type in your C# code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

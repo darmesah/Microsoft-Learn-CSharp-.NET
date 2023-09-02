@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _06_Conditional_Branching_and_Looping_Structures
-build_property.ProjectDir = c:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\02 Part 3\06 Conditional Branching and Looping\
+build_property.RootNamespace = _01__Choose_the_correct_data_type_in_your_C__code
+build_property.ProjectDir = C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\01  Choose the correct data type in your C# code\
