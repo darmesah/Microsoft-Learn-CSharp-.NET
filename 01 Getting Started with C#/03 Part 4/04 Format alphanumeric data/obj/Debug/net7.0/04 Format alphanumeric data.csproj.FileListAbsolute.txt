@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\bin\Debug\net7.0\04 Format alphanumeric data.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\bin\Debug\net7.0\04 Format alphanumeric data.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\bin\Debug\net7.0\04 Format alphanumeric data.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\bin\Debug\net7.0\04 Format alphanumeric data.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\bin\Debug\net7.0\04 Format alphanumeric data.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\refint\04 Format alphanumeric data.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\04 Format alphanumeric data.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\04 Format alphanumeric data\obj\Debug\net7.0\ref\04 Format alphanumeric data.dll
