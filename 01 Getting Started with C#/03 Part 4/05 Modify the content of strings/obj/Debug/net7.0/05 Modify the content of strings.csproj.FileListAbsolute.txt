@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\bin\Debug\net7.0\05 Modify the content of strings.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\bin\Debug\net7.0\05 Modify the content of strings.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\bin\Debug\net7.0\05 Modify the content of strings.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\bin\Debug\net7.0\05 Modify the content of strings.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\bin\Debug\net7.0\05 Modify the content of strings.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\refint\05 Modify the content of strings.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\05 Modify the content of strings.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\03 Part 4\05 Modify the content of strings\obj\Debug\net7.0\ref\05 Modify the content of strings.dll
