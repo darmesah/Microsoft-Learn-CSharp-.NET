@@ -1,0 +1,14 @@
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\bin\Debug\net7.0\01 Write your first C# method.exe
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\bin\Debug\net7.0\01 Write your first C# method.deps.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\bin\Debug\net7.0\01 Write your first C# method.runtimeconfig.json
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\bin\Debug\net7.0\01 Write your first C# method.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\bin\Debug\net7.0\01 Write your first C# method.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.AssemblyInfoInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.AssemblyInfo.cs
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.csproj.CoreCompileInputs.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\refint\01 Write your first C# method.dll
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.pdb
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\01 Write your first C# method.genruntimeconfig.cache
+C:\Users\DAMISA\Documents\Web Development\Learning\C#\Microsoft Learn\01 Getting Started with C#\04 Part 5\01 Write your first C# method\obj\Debug\net7.0\ref\01 Write your first C# method.dll
